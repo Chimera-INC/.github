@@ -13,31 +13,26 @@
 
 ## ░░░░░░░░░░░░░░░ DISLAIMER ░░░░░░░░░░░░░░░
 
-### Chimera Power Client is NOT a standalone Minecraft hacked client or mod.
+### Chimera Power Client is NOT a standalone Minecraft utility / hacked client nor mod.
 
-It is a complete modpack that includes a range of complementary tools, all in one project.
+It is a complete modpack that includes a range of supplementary tools, all in one project.
 It supports the use of any mods or tools that are compatible with the Minecraft Fabric API, allowing for maximum flexibility and customization. 
 We encourage users to add their own mods and tools to the pack, and we are always open to feedback and suggestions for new features. However, we cannot guarantee the compatibility of all mods and tools with our power client, and we are not responsible for any issues that may arise from the use of incompatible mods or tools.
 
-## Chimera.INC is an underground Minecraft utility hacked client organization dedicated to developing the ultimate modular Minecraft utility hacks. Our mission is to provide Minecraft players with an unparalleled advantage through our state-of-the-art mods and hacks.
-
-Chimera.INC Power Client is the ultimate modular Minecraft utility hacked client, offering a powerful combination of utility and hacks that gives players an unparalleled advantage. Our goal is to provide a platform for players to integrate and automate anything in Minecraft, as well as to expand and upgrade the client on the go.
-Our idea is to fuse utility and hacks to provide Minecraft players with a comprehensive tool that gives them an unparalleled advantage. By developing a modular system that combines hacks with useful utility features, we aim to create a tool that can be customized to suit the player's preferences and play style.
+### Chimera.INC Power Client is the ultimate modular client, offering a powerful combination of utility and hacks that gives players an unparalleled advantage. Our goal is to provide a platform for players to integrate and automate anything in Minecraft, as well as to expand and upgrade the client on the go.
+Our idea is to provide Minecraft players with a comprehensive tool. By developing a modular system that combines hacks with useful utility features, we aim to create a tool that can be customized to suit the player's preferences and play style.
 
 # ░░░░░░░░░ Features ░░░░░░░░░
-### Chimera.INC Power Client offers a wide range of features that can be customized to suit each player's unique needs. The main features of our power client include:
+### Chimera.INC Power Client offers a wide range of features:
 
 # ░░░░░░░░░ Modular design: ░░░░░░░░░
 ## Our power client is modular, allowing players to add or remove features as they see fit. This gives players the ability to customize their client to suit their individual needs.
 
 # ░░░░░░░░░ Utility tools: ░░░░░░░░░
-## Our power client offers a range of utility tools, including macros, debug tools, and protocol management tools. These tools give players the ability to automate tasks, profile and debug runtime quickly and easily, and manage packets efficiently.
+## Our power client offers a range of utility tools, including macros, debug tools, and protocol management tools (coming soon!). These tools give players ability to automate tasks, profile and debug runtime quickly and easily.
 
-# ░░░░░░░░░ Hacks: ░░░░░░░░░
-## Our power client also includes a range of hacks that give players an edge in Minecraft. These hacks are based on Meteor Client and its many addons (Anticope).
-
-# ░░░░░░░░░ Upgradable: ░░░░░░░░░
-## Our power client is designed to be upgradable, with the ability to add new features and hacks as they become available. This ensures that our power client is always up-to-date and offering players the latest tools and features.
+# ░░░░░░░░░ Upgradeable: ░░░░░░░░░
+## Our power client is designed to be upgradeable, with the ability to add new scripts, mod and modules as they become available. This ensures that client is always up-to-date and offering players the latest tools and features.
 
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 

@@ -14,12 +14,11 @@
 ## ░░░░░░░░░░░░░░░ DISLAIMER ░░░░░░░░░░░░░░░
 
 ### Chimera Power Client is NOT a standalone Minecraft utility / hacked client nor mod.
+### Chimera.INC Power Client is the ultimate modular client, offering a powerful combination of utility and hacks that gives players an unparalleled advantage. Our goal is to provide a platform for players to integrate and automate anything in Minecraft, as well as to expand and upgrade the client on the go.
 
 It is a complete modpack that includes a range of supplementary tools, all in one project.
 It supports the use of any mods or tools that are compatible with the Minecraft Fabric API, allowing for maximum flexibility and customization. 
 We encourage users to add their own mods and tools to the pack, and we are always open to feedback and suggestions for new features. However, we cannot guarantee the compatibility of all mods and tools with our power client, and we are not responsible for any issues that may arise from the use of incompatible mods or tools.
-
-### Chimera.INC Power Client is the ultimate modular client, offering a powerful combination of utility and hacks that gives players an unparalleled advantage. Our goal is to provide a platform for players to integrate and automate anything in Minecraft, as well as to expand and upgrade the client on the go.
 Our idea is to provide Minecraft players with a comprehensive tool. By developing a modular system that combines hacks with useful utility features, we aim to create a tool that can be customized to suit the player's preferences and play style.
 
 # ░░░░░░░░░ Features ░░░░░░░░░

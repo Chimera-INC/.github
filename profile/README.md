@@ -31,7 +31,7 @@ Our power client is designed to be upgradeable, with the ability to add new scri
 # ░░░░░░░░░ Specification: ░░░░░░░░░
 ### Core mods:
 - JsMacros (Wagyourtail)
-- NBTEditor (12345Mega12345)
+- NBTEditor (Mega12345Mega)
 - Meteor Client (Seasnail & Minegame)
 
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░

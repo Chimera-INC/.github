@@ -41,12 +41,12 @@ We would like to remind all our users that the use of our utility client may be 
 This project is meant purely for its utility.
 
 ░░░░░░ CHIMERA DEVS ░░░░░░
-### [CEO] Silverainox, User-31415, FlareStormGaming
+### Silverainox, User-31415, FlareStormGaming
 
 https://discord.gg/EaUK4qc6xU ~ Chimera Updates & Discord Channel
 
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-### README v1 created with slight assistance of GPT-3 model.
+### README v2 created with slight assistance of GPT-3 model.
 
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░

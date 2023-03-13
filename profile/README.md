@@ -33,6 +33,7 @@ Supporting js,jython,JEP,lua,kotlin,groovy,ruby,WASM - Thanks to JSM Extensions
 - JsMacros (Wagyourtail)
 - NBTEditor (Mega12345Mega)
 - Meteor Client (Seasnail & Minegame)
+
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 Disclaimer

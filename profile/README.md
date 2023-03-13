@@ -23,7 +23,7 @@ Our idea is to provide Minecraft players with a comprehensive tool. By developin
 
 # ░░░░░░░░░ Features ░░░░░░░░░
 ### Chimera.INC Power Client offers a wide range of features:
-Our power client offers a range of utility tools, including macros, debug tools, and protocol management tools (coming soon!). These tools give players ability to automate tasks, profile and debug runtime quickly and easily.
+Our power client offers a range of utility tools, including macros, debug tools, and protocol tools (coming soon!). These tools give players ability to automate tasks, profile and debug runtime quickly and easily.
 Our power client is modular, allowing players to add or remove features as they see fit. This gives players the ability to customize their client to suit their individual needs.
 Our power client is designed to be upgradeable, with the ability to add new scripts, mod and modules as they become available. This ensures that client is always up-to-date and offering players the latest tools and features.
 

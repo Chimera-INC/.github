@@ -13,40 +13,39 @@
 
 ## ░░░░░░░░░░░░░░░ DISLAIMER ░░░░░░░░░░░░░░░
 
-### Chimera Power Client is NOT a standalone Minecraft utility / hacked client nor mod.
-### Chimera.INC Power Client is the ultimate modular client, offering a powerful combination of utility and hacks that gives players an unparalleled advantage. Our goal is to provide a platform for players to integrate and automate anything in Minecraft, as well as to expand and upgrade the client on the go.
+### Chimera Project is NOT a standalone Minecraft client nor mod.
+ Chimera is fusion between utility and hack, using standalone mods as core & supplementary scripts and assets 
+ Chimera.INC is the ultimate DIY modular client kit, offering a powerful platform for users to integrate and automate anything in Minecraft, as well as expand and upgrade the client on the go.
 
-It is a complete modpack that includes a range of supplementary tools, all in one project.
-It supports the use of any mods or tools that are compatible with the Minecraft Fabric API, allowing for maximum flexibility and customization. 
-We encourage users to add their own mods and tools to the pack, and we are always open to feedback and suggestions for new features. However, we cannot guarantee the compatibility of all mods and tools with our power client, and we are not responsible for any issues that may arise from the use of incompatible mods or tools.
-Our idea is to provide Minecraft players with a comprehensive tool. By developing a modular system that combines hacks with useful utility features, we aim to create a tool that can be customized to suit the player's preferences and play style.
-
-# ░░░░░░░░░ Features ░░░░░░░░░
-### Chimera.INC Power Client offers a wide range of features:
-Our power client offers a range of utility tools, including macros, debug tools, and protocol tools (coming soon!). These tools give players ability to automate tasks, profile and debug runtime quickly and easily.
-Our power client is modular, allowing players to add or remove features as they see fit. This gives players the ability to customize their client to suit their individual needs.
-Our power client is designed to be upgradeable, with the ability to add new scripts, mod and modules as they become available. This ensures that client is always up-to-date and offering players the latest tools and features.
-
+# ░░░░░░░░░ Key Features ░░░░░░░░░
+- Client core is based on few `AAA++` mods, each being key element or framework for Chimera integrations. 
+Some critical mods include: `jsMacros`, `Meteor client`, `NBT-Editor` - These are essential!
+[Fair use of open source code, not affiliated]
+- `Assembler` - shell build scripts for Linux & Windows (Bash, Powershell) [MacOS, cmd.exe coming soon]
+- `Macros` - Various JsMacros scripts, from well described examples helpfull for simple automation, OS shell bridge, to entire DIY GUI [2D Draw] framework for creating fully customizable panels [gui + hud] 
+Supporting js,jython,JEP,lua,kotlin,groovy,ruby,WASM - Thanks to JSM Extensions
+- `Client storage` - -1 pages of client side item storage, provided by `NBT-Editor`, uses `page0.nbt` file format, easily cloned, merged or exported on go. Client storage allows you to bring custom items from singleplayer to any server if op, and some public creative servers :) 
+[Some people use it for collecting pretty text formatting, others for backdoor books, spawner traps, 'click-me' signs and nuclear creepers]
+- `Web API` - Various web based functions, from managing GitHub repos, HTTP requests, Web socket API, to things as wild as built in server scanner, with integrations for McStacker, Misode, Name.MC, Minecraft-Servers, ChatGPT and many more being planned for near future!
 
 # ░░░░░░░░░ Specification: ░░░░░░░░░
 ### Core mods:
 - JsMacros (Wagyourtail)
 - NBTEditor (Mega12345Mega)
 - Meteor Client (Seasnail & Minegame)
-
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 Disclaimer
-We would like to remind all our users that the use of our utility client may be against the terms of service of Minecraft and could result in a ban. We do not condone the use of our client for cheating in any way that may harm the gaming community.
+We would like to remind all users that use of our utility package may be against the terms of service of Minecraft and could result in a ban. We do not condone the use of our client for cheating in any way that may harm the gaming community.
 This project is meant purely for its utility.
 
-░░░░░░ CHIMERA DEVS ░░░░░░
-### Silverainox, User-31415, FlareStormGaming
+░░░░░░ CHIMERA PROJECT DEVS ░░░░░░
+### Silverainox & User-31415
 
 https://discord.gg/EaUK4qc6xU ~ Chimera Updates & Discord Channel
 
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-### README v2 created with slight assistance of GPT-3 model.
+### README v5.
 
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░

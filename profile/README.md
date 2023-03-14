@@ -47,6 +47,6 @@ https://discord.gg/EaUK4qc6xU ~ Chimera Updates & Discord Channel
 
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-### README v5.
+### README v7.1.
 
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
